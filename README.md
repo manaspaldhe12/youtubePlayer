@@ -140,3 +140,4 @@ http://github.com/j-ulrich/jquery-ui-multiprogressbar
 
 Licensed under the [MIT license](http://opensource.org/licenses/MIT).
 
+# youtubePlayer

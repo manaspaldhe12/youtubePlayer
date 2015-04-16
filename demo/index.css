@@ -1,0 +1,39 @@
+		.container {
+			width: 100%;
+			margin-top: 1em;
+		}
+		
+		.blue {
+			background: blue;
+		}
+		
+		.red {
+			background: red;
+		}
+		
+		.redText {
+			color: red;
+		}
+		
+		
+		.footnote {
+			color: black;
+			font-style: italic;
+			font-size: small;
+		}
+
+		.green {
+			background: green;
+		}
+		
+		.yellow {
+			background: yellow;
+		}
+
+		.white {
+			background: white;
+		}
+
+		#plain{
+			width: 640px; 
+		}
