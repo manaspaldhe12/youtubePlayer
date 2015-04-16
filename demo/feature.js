@@ -27,7 +27,8 @@
       });
       	// Get the video list.
       	// TODO: Ideally we should get this from backend or some other url
-      	// TODO: Remove this: thisInstanceData = JSON.parse(prompt("Please enter the data"));
+      	// TODO: Remove this: 
+        thisInstanceData = JSON.parse(prompt("Please enter the data"));
       }
 
       // 4. The API will call this function when the video player is ready.
